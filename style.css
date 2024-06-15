@@ -43,9 +43,13 @@ nav ul li a:hover {
 .github-logo {
     width: 24px;
     height: 24px;
-    transition: transform 0.2s;
+    background-color: white;
+    padding: 5px;
+    border-radius: 4px;
+    transition: transform 0.2s, background-color 0.2s;
 }
 
 .github-logo:hover {
     transform: scale(1.2);
+    background-color: #f1f1f1;
 }

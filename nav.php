@@ -13,7 +13,7 @@
             <li><a href="contact.php">Contact Us</a></li>
             <li><a href="about.php">About Us</a></li>
             <li class="github">
-                <a href="https://github.com" target="_blank">
+                <a href="https://github.com/spowers0409/phpApp" target="_blank">
                     <img src="github-mark.png" alt="GitHub" class="github-logo">
                 </a>
             </li>
